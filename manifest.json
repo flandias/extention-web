@@ -1,0 +1,12 @@
+{
+    "name":"jokes",
+    "version":"0.0.1",
+    "manifest_version":1,
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo2.png"
+    },
+    "icons":{
+        "128":"logo.png"
+    }
+}

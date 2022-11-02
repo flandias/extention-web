@@ -1,0 +1,15 @@
+body{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+p{
+    display:flex;
+    margin: auto;
+    font-size: 18px;
+    color:black;
+    border-radius: 2px solid blue;
+    padding: 5px;
+}
